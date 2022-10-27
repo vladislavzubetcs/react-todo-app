@@ -1,26 +1,20 @@
 import 'reset-css';
 
-import logo from './assets/logo.svg';
-import './assets/styles/app.scss';
-
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+    <>
+      <header className="header">
+        <div className="wrapper">
+          <h1 className="header__title">Todo</h1>
+          <button type="button" className="button header__search">Sort by</button>
+        </div>
       </header>
-    </div>
+      <main className="main">
+        <div className="wrapper">
+
+        </div>
+      </main>
+    </>
   );
 }
 
