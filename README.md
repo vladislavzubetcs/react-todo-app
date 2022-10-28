@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Live view
 
-You can visit [Published version](https://facebook.github.io/create-react-app/docs/getting-started) to check it out.
+You can visit [Published version](https://vladislavzubetcstodoapp.herokuapp.com/) to check it out.
 
 ## Available Scripts
 
