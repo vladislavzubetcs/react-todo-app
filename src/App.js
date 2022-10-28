@@ -1,8 +1,8 @@
 import 'reset-css';
 import './App.scss';
 
-import TodoInput from './components/TodoInput.js';
-import Todos from './components/Todos.js';
+import TodoInput from './components/TodoInput';
+import Todos from './components/Todos';
 
 import styled from 'styled-components';
 
