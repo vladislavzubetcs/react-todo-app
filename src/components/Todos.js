@@ -11,7 +11,7 @@ const TodosListItem = styled.li`
     width: 100%;
     text-align: center;
     font-weight: 300;
-    cursour: pointer;
+    cursor: pointer;
 
     ${props => props.isCancelled ?
         'text-decoration: line-through;' +
